@@ -2,7 +2,7 @@
 
 ## 1. ML_DL_that_study_alone
 - Main learning materials: 혼자 공부하는 머신러닝+딥러닝 - 박해선 지음 - 한빛미디어
-- blog URL: [늑대양의 안식처](https://wolf-sheep.tistory.com/)
+- blog URL: [늑대양의 안식처](https://wolf-sheep.tistory.com/){:target="_blank"}
 
 <br>
 
