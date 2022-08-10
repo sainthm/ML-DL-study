@@ -1,7 +1,10 @@
 # ML-DL-study
 
-## ML_DL_that_study_alone
-- 혼자 공부하는 머신러닝+딥러닝 - 박해선 지음 - 한빛미디어
+## 1. ML_DL_that_study_alone
+- Main learning materials: 혼자 공부하는 머신러닝+딥러닝 - 박해선 지음 - 한빛미디어
+- blog URL: [늑대양의 안식처](https://wolf-sheep.tistory.com/)
+
+<br>
 
 ### 인공지능이란:
 - **인공지능(Artificial Intelligence)** 은 사람처럼 학습하고 추론할 수 있는 지능을 가진 컴퓨터 시스템을 만드는 기술입니다.
@@ -30,3 +33,6 @@
   - 복잡한 알고리즘을 훈련할 수 있는 **풍부한 데이터**
   - **컴퓨터 성능** 의 향상
   - 혁신적인 **알고리즘 개발**
+
+<br>
+<br>
