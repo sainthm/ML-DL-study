@@ -2,11 +2,18 @@
 
 ### Now..
 
-## 1. ML_DL_that_study_alone
+## 1. 혼자 공부하는 머신러닝+딥러닝(ML_DL_that_study_alone)
 - Main learning materials: 혼자 공부하는 머신러닝+딥러닝 - 박해선 지음 - 한빛미디어
 - blog URL: <a href="https://wolf-sheep.tistory.com/" target="_blank">늑대양의 안식처</a>
 
+## 2. 데싸노트의 실전에서 통하는 머신러닝(Machine learning that works in the real world of the Data scientist note)
+- Main learning materials: 데싸노트의 실전에서 통하는 머신러닝 - 권시현 지음 - 골든래빗
+- blog URL: <a href="https://wolf-sheep.tistory.com/" target="_blank">늑대양의 안식처</a>
+
 <br>
+<br>
+<br>
+
 
 ### 인공지능이란:
 - **인공지능(Artificial Intelligence)** 은 사람처럼 학습하고 추론할 수 있는 지능을 가진 컴퓨터 시스템을 만드는 기술입니다.
