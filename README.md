@@ -11,6 +11,8 @@
 ## 2. 데싸노트의 실전에서 통하는 머신러닝(Machine learning that works in the real world of the Data scientist note)
 - Main learning materials: 데싸노트의 실전에서 통하는 머신러닝 - 권시현 지음 - 골든래빗
 - blog URL: <a href="https://wolf-sheep.tistory.com/" target="_blank">늑대양의 안식처</a>
+  - 메모용: 37p 오타 얻을 수 **이**는 ➔ 얻을 수 **있**는
+
 
 <br>
 <br>
@@ -63,3 +65,12 @@
 
 <br>
 <br>
+
+### 머신러닝 기법: 지도 학습, 비지도 학습, 강화학습
+- 머신러닝에는 지도 학습(supervised learning), 비지도 학습(unsupervised learning), 강화 학습(reinforcement learning)이라는 세 가지 범주가 있습니다.
+- 지도 학습은 입력값과 그에 대한 정답을 사용해 이 둘의 관계를 분석하고 예측 모델을 만들어냅니다.
+- 목적에 따라서 지도 학습은 회귀 문제와 분류 문제로 구분할 수 있습니다.
+  - 회귀 문제는 **예측 결괏값이 연속성을 지니는 경우**이며, 실수형으로 결과를 표현합니다. (ex. 매출액 예측, 부동산 가격 예측, 거래량 예측)
+  - 반면 분류 문제는 **예측 결괏값이 비연속적인 경우**입니다.
+    - 이 때 얻을 수 있는 분류 종류를 클래스라고 하며, 클래스가 2개뿐일 때 이진분류라고 합니다.
+- 비지도 학습은 정답이 없는 데이터만으로 학습합니다.
