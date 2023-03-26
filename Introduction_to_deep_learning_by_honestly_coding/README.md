@@ -4,6 +4,11 @@
 
 <br>
 
+> Carpe diem, seize the day boys,
+make your lives extraordinary.
+
+<br>
+
 ## Index.
 
 1. 딥러닝을 소개합니다
