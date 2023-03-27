@@ -4,8 +4,7 @@
 
 <br>
 
-> Carpe diem, seize the day boys,
-make your lives extraordinary.
+> Carpe diem, seize the day boys, make your lives extraordinary.
 
 <br>
 
