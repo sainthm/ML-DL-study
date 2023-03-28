@@ -1,0 +1,21 @@
+############
+#git .ignore
+############
+
+.DS_Store
+
+*.pem
+
+*.zip
+
+*.jpg
+
+*.jpeg
+
+*.pdf
+
+*.csv
+
+__pycache__
+
+.ipynb_checkpoints
